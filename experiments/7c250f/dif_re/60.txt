@@ -1,0 +1,5 @@
+Archivo: 10_ent.txt
+Tiempo consumido por el algoritmo : 1126838 seg.
+El numero de testores difusos tipicos encontrado es : 14519
+
+==============================

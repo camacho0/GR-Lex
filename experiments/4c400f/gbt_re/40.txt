@@ -1,0 +1,190 @@
+Archivo: 10.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.635264e+07
+
+ Numero de columnas de ceros: 0: 
+
+.............................................
+
+ 4503925 combinaciones verificadas 
+
+ 516 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 111.000000 seg 
+
+
+==============================
+Archivo: 3.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.806606e+07
+
+ Numero de columnas de ceros: 0: 
+
+...........................................
+
+ 4398617 combinaciones verificadas 
+
+ 370 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 132.000000 seg 
+
+
+==============================
+Archivo: 4.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 8.045037e+07
+
+ Numero de columnas de ceros: 0: 
+
+..................................................
+
+ 5067031 combinaciones verificadas 
+
+ 417 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 163.000000 seg 
+
+
+==============================
+Archivo: 5.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 8.053949e+07
+
+ Numero de columnas de ceros: 0: 
+
+.......................................................
+
+ 5536318 combinaciones verificadas 
+
+ 487 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 182.000000 seg 
+
+
+==============================
+Archivo: 7.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 8.228083e+07
+
+ Numero de columnas de ceros: 0: 
+
+.....................................
+
+ 3795963 combinaciones verificadas 
+
+ 355 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 117.000000 seg 
+
+
+==============================
+Archivo: 8.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 8.129722e+07
+
+ Numero de columnas de ceros: 0: 
+
+..........................................
+
+ 4256327 combinaciones verificadas 
+
+ 385 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 133.000000 seg 
+
+
+==============================
+Archivo: 2.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 8.750333e+07
+
+ Numero de columnas de ceros: 0: 
+
+..................................................................................
+
+ 8229374 combinaciones verificadas 
+
+ 600 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 248.000000 seg 
+
+
+==============================
+Archivo: 9.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 8.225385e+07
+
+ Numero de columnas de ceros: 0: 
+
+.....................................................
+
+ 5346627 combinaciones verificadas 
+
+ 451 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 163.000000 seg 
+
+
+==============================
+Archivo: 1.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.086061e+07
+
+ Numero de columnas de ceros: 0: 
+
+..........................
+
+ 2673470 combinaciones verificadas 
+
+ 327 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 80.000000 seg 
+
+
+==============================
+Archivo: 6.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.558352e+07
+
+ Numero de columnas de ceros: 0: 
+
+.................................................
+
+ 4907355 combinaciones verificadas 
+
+ 440 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 154.000000 seg 
+
+
+==============================

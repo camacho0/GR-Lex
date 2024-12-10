@@ -1,0 +1,50 @@
+Archivo: 10_ent.txt
+Tiempo consumido por el algoritmo : 12286 seg.
+El numero de testores difusos tipicos encontrado es : 226
+
+==============================
+Archivo: 3_ent.txt
+Tiempo consumido por el algoritmo : 11011 seg.
+El numero de testores difusos tipicos encontrado es : 283
+
+==============================
+Archivo: 2_ent.txt
+Tiempo consumido por el algoritmo : 7296 seg.
+El numero de testores difusos tipicos encontrado es : 143
+
+==============================
+Archivo: 8_ent.txt
+Tiempo consumido por el algoritmo : 8065 seg.
+El numero de testores difusos tipicos encontrado es : 256
+
+==============================
+Archivo: 5_ent.txt
+Tiempo consumido por el algoritmo : 7678 seg.
+El numero de testores difusos tipicos encontrado es : 201
+
+==============================
+Archivo: 4_ent.txt
+Tiempo consumido por el algoritmo : 8155 seg.
+El numero de testores difusos tipicos encontrado es : 245
+
+==============================
+Archivo: 1_ent.txt
+Tiempo consumido por el algoritmo : 6993 seg.
+El numero de testores difusos tipicos encontrado es : 173
+
+==============================
+Archivo: 9_ent.txt
+Tiempo consumido por el algoritmo : 8648 seg.
+El numero de testores difusos tipicos encontrado es : 215
+
+==============================
+Archivo: 6_ent.txt
+Tiempo consumido por el algoritmo : 7680 seg.
+El numero de testores difusos tipicos encontrado es : 320
+
+==============================
+Archivo: 7_ent.txt
+Tiempo consumido por el algoritmo : 6778 seg.
+El numero de testores difusos tipicos encontrado es : 218
+
+==============================

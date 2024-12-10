@@ -1,0 +1,2 @@
+El numero de testores difusos tipicos encontrado es : 0
+Tiempo consumido por el algoritmo : 0 seg.

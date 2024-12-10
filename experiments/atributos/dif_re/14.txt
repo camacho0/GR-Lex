@@ -1,0 +1,49 @@
+Archivo: 10.txt
+Tiempo consumido por el algoritmo : 0 seg.
+El numero de testores difusos tipicos encontrado es : 6118
+
+==============================
+Archivo: 3.txt
+Tiempo consumido por el algoritmo : 1 seg.
+El numero de testores difusos tipicos encontrado es : 2165
+
+==============================
+Archivo: 4.txt
+Tiempo consumido por el algoritmo : 0 seg.
+El numero de testores difusos tipicos encontrado es : 8034
+
+==============================
+Archivo: 5.txt
+
+Error, el archivo no existe
+==============================
+Archivo: 7.txt
+Tiempo consumido por el algoritmo : 1 seg.
+El numero de testores difusos tipicos encontrado es : 4687
+
+==============================
+Archivo: 8.txt
+Tiempo consumido por el algoritmo : 0 seg.
+El numero de testores difusos tipicos encontrado es : 6203
+
+==============================
+Archivo: 2.txt
+Tiempo consumido por el algoritmo : 0 seg.
+El numero de testores difusos tipicos encontrado es : 5409
+
+==============================
+Archivo: 9.txt
+Tiempo consumido por el algoritmo : 1 seg.
+El numero de testores difusos tipicos encontrado es : 8399
+
+==============================
+Archivo: 1.txt
+Tiempo consumido por el algoritmo : 1 seg.
+El numero de testores difusos tipicos encontrado es : 7229
+
+==============================
+Archivo: 6.txt
+Tiempo consumido por el algoritmo : 0 seg.
+El numero de testores difusos tipicos encontrado es : 5583
+
+==============================

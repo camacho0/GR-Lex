@@ -1,0 +1,60 @@
+Archivo: 10.txt
+numero de combinaciones verificadas: 17540673
+Tiempo para calcular los TTG: 1587.000000 seg 
+numero de reductos encontrados: 513
+
+==============================
+Archivo: 3.txt
+numero de combinaciones verificadas: 17381865
+Tiempo para calcular los TTG: 1531.000000 seg 
+numero de reductos encontrados: 506
+
+==============================
+Archivo: 4.txt
+numero de combinaciones verificadas: 15165752
+Tiempo para calcular los TTG: 1280.000000 seg 
+numero de reductos encontrados: 679
+
+==============================
+Archivo: 5.txt
+numero de combinaciones verificadas: 13707531
+Tiempo para calcular los TTG: 1173.000000 seg 
+numero de reductos encontrados: 487
+
+==============================
+Archivo: 7.txt
+numero de combinaciones verificadas: 16405499
+Tiempo para calcular los TTG: 1296.000000 seg 
+numero de reductos encontrados: 430
+
+==============================
+Archivo: 8.txt
+numero de combinaciones verificadas: 15285004
+Tiempo para calcular los TTG: 1229.000000 seg 
+numero de reductos encontrados: 578
+
+==============================
+Archivo: 2.txt
+numero de combinaciones verificadas: 14279516
+Tiempo para calcular los TTG: 1131.000000 seg 
+numero de reductos encontrados: 336
+
+==============================
+Archivo: 9.txt
+numero de combinaciones verificadas: 14612964
+Tiempo para calcular los TTG: 1102.000000 seg 
+numero de reductos encontrados: 560
+
+==============================
+Archivo: 1.txt
+numero de combinaciones verificadas: 15365794
+Tiempo para calcular los TTG: 1135.000000 seg 
+numero de reductos encontrados: 590
+
+==============================
+Archivo: 6.txt
+numero de combinaciones verificadas: 15928037
+Tiempo para calcular los TTG: 1198.000000 seg 
+numero de reductos encontrados: 462
+
+==============================

@@ -1,0 +1,104 @@
+Archivo: 10.txt
+name:10.txt
+lectura10.txt
+
+8
+Numero de combinaciones verificadas: 2169004
+Tiempo para calcular los TTG: 21.000000 seg 
+
+Reductos encontrados: 1856
+
+==============================
+Archivo: 3.txt
+name:3.txt
+lectura3.txt
+
+8
+Numero de combinaciones verificadas: 1360709
+Tiempo para calcular los TTG: 14.000000 seg 
+
+Reductos encontrados: 943
+
+==============================
+Archivo: 4.txt
+name:4.txt
+lectura4.txt
+
+7
+Numero de combinaciones verificadas: 2019928
+Tiempo para calcular los TTG: 20.000000 seg 
+
+Reductos encontrados: 1392
+
+==============================
+Archivo: 5.txt
+name:5.txt5.txt5.txt5.txt5.txt
+lectura5.txt5.txt5.txt5.txt5.txt
+
+
+==============================
+Archivo: 7.txt
+name:7.txt
+lectura7.txt
+
+8
+Numero de combinaciones verificadas: 2190684
+Tiempo para calcular los TTG: 21.000000 seg 
+
+Reductos encontrados: 1733
+
+==============================
+Archivo: 8.txt
+name:8.txt
+lectura8.txt
+
+7
+Numero de combinaciones verificadas: 2122367
+Tiempo para calcular los TTG: 30.000000 seg 
+
+Reductos encontrados: 908
+
+==============================
+Archivo: 2.txt
+name:2.txt
+lectura2.txt
+
+7
+Numero de combinaciones verificadas: 1915607
+Tiempo para calcular los TTG: 30.000000 seg 
+
+Reductos encontrados: 1320
+
+==============================
+Archivo: 9.txt
+name:9.txt
+lectura9.txt
+
+Numero de combinaciones verificadas: 2113307
+Tiempo para calcular los TTG: 38.000000 seg 
+
+Reductos encontrados: 2092
+
+==============================
+Archivo: 1.txt
+name:1.txt
+lectura1.txt
+
+8
+Numero de combinaciones verificadas: 1361108
+Tiempo para calcular los TTG: 25.000000 seg 
+
+Reductos encontrados: 1682
+
+==============================
+Archivo: 6.txt
+name:6.txt
+lectura6.txt
+
+8
+Numero de combinaciones verificadas: 2029120
+Tiempo para calcular los TTG: 38.000000 seg 
+
+Reductos encontrados: 988
+
+==============================

@@ -1,0 +1,11 @@
+Archivo: 10.txt
+name:10.txt
+lectura10.txt
+
+19
+Numero de combinaciones verificadas: 409833649
+Tiempo para calcular los TTG: 1882366.000000 seg 
+
+Reductos encontrados: 1276130
+
+==============================

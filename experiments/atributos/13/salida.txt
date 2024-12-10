@@ -1,0 +1,40 @@
+nombre:  1
+espacio de busqueda:  1.785E+16
+densidad suma:  46.57692307692308
+densidad medio:  0.4269230769230769
+nombre:  2
+espacio de busqueda:  2.182E+16
+densidad suma:  48.66923076923077
+densidad medio:  0.5192307692307693
+nombre:  3
+espacio de busqueda:  2.671E+16
+densidad suma:  49.56923076923077
+densidad medio:  0.5038461538461538
+nombre:  4
+espacio de busqueda:  2.838E+16
+densidad suma:  48.43076923076923
+densidad medio:  0.47307692307692306
+nombre:  5
+espacio de busqueda:  1.954E+16
+densidad suma:  52.20384615384615
+densidad medio:  0.5115384615384615
+nombre:  6
+espacio de busqueda:  2.516E+16
+densidad suma:  52.33461538461538
+densidad medio:  0.5192307692307693
+nombre:  7
+espacio de busqueda:  2.081E+16
+densidad suma:  50.18846153846154
+densidad medio:  0.47307692307692306
+nombre:  8
+espacio de busqueda:  1.686E+16
+densidad suma:  48.3
+densidad medio:  0.4346153846153846
+nombre:  9
+espacio de busqueda:  2.143E+16
+densidad suma:  46.26538461538462
+densidad medio:  0.4576923076923077
+nombre:  10
+espacio de busqueda:  2.405E+16
+densidad suma:  48.46923076923077
+densidad medio:  0.48846153846153845

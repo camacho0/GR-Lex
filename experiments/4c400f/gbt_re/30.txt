@@ -1,0 +1,190 @@
+Archivo: 10.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 8.223466e+07
+
+ Numero de columnas de ceros: 0: 
+
+...............
+
+ 1503442 combinaciones verificadas 
+
+ 278 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 34.000000 seg 
+
+
+==============================
+Archivo: 3.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 6.750034e+07
+
+ Numero de columnas de ceros: 0: 
+
+.......
+
+ 778187 combinaciones verificadas 
+
+ 306 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 16.000000 seg 
+
+
+==============================
+Archivo: 4.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.096756e+07
+
+ Numero de columnas de ceros: 0: 
+
+.
+
+ 168475 combinaciones verificadas 
+
+ 145 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 3.000000 seg 
+
+
+==============================
+Archivo: 5.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.863755e+07
+
+ Numero de columnas de ceros: 0: 
+
+.......................
+
+ 2373755 combinaciones verificadas 
+
+ 396 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 62.000000 seg 
+
+
+==============================
+Archivo: 7.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.754422e+07
+
+ Numero de columnas de ceros: 0: 
+
+.........................
+
+ 2570346 combinaciones verificadas 
+
+ 287 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 74.000000 seg 
+
+
+==============================
+Archivo: 8.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.477060e+07
+
+ Numero de columnas de ceros: 0: 
+
+.............
+
+ 1310186 combinaciones verificadas 
+
+ 336 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 35.000000 seg 
+
+
+==============================
+Archivo: 2.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.637011e+07
+
+ Numero de columnas de ceros: 0: 
+
+.....................
+
+ 2190298 combinaciones verificadas 
+
+ 371 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 62.000000 seg 
+
+
+==============================
+Archivo: 9.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.553088e+07
+
+ Numero de columnas de ceros: 0: 
+
+..........
+
+ 1077084 combinaciones verificadas 
+
+ 256 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 24.000000 seg 
+
+
+==============================
+Archivo: 1.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.308756e+07
+
+ Numero de columnas de ceros: 0: 
+
+.......
+
+ 785144 combinaciones verificadas 
+
+ 257 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 26.000000 seg 
+
+
+==============================
+Archivo: 6.txt
+
+
+ Cada puntito son 100000 combinaciones verificadas 
+
+Dar el nombre del archivo de la matriz:  Tamano del espacio de busqueda: 7.544064e+07
+
+ Numero de columnas de ceros: 0: 
+
+.............
+
+ 1344487 combinaciones verificadas 
+
+ 352 testores difusos tipicos 
+
+ tiempo para calcular los TTG: 40.000000 seg 
+
+
+==============================
